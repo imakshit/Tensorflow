@@ -1,2 +1,2 @@
 # Tensorflow
- free_code_camp
+ Code snippets and exercises regarding tensorflow.
